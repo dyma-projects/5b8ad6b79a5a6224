@@ -9,6 +9,7 @@ import { Exercice3EnfantComponent } from './exercice3/exercice3-enfant/exercice3
 import { Exercice1EnfantComponent } from './exercice1/exercice1-enfant/exercice1-enfant.component';
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -16,7 +17,8 @@ import { Exercice1EnfantComponent } from './exercice1/exercice1-enfant/exercice1
     Exercice2Component,
     Exercice3Component,
     Exercice3EnfantComponent,
-    Exercice1EnfantComponent
+    Exercice1EnfantComponent,
+
   ],
   imports: [
     BrowserModule
